@@ -1,1 +1,1 @@
-export * from "./use-update-asset-by-userid";
+export * from "./use-delete-asset-by-userid";
