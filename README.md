@@ -2,6 +2,8 @@
 
 This project is a sample work designed for a code challenge, aiming to demonstrate skills similar to what you may produce in a professional setting.
 
+[You can see it live here](https://awesome-content-editor.vercel.app)
+
 To run this project you need NodeJS 18
 
 ## Project Overview
